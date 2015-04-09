@@ -33,6 +33,11 @@ public class Login extends javax.swing.JFrame {
         }
         return false;
     }
+    /*uioashji
+    sdpijasdiopasjd
+    asopduias
+    */
+    */
     public Login() {
         
         initComponents();
