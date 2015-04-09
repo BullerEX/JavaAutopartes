@@ -35,21 +35,21 @@
           <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
                   <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
-                  <Component id="Administrador" pref="698" max="32767" attributes="0"/>
+                  <Component id="Administrador" max="32767" attributes="0"/>
                   <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
               </Group>
           </Group>
           <Group type="103" rootIndex="2" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
                   <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
-                  <Component id="Lista_Consecionario" max="32767" attributes="0"/>
+                  <Component id="Lista_Consecionario" pref="701" max="32767" attributes="0"/>
                   <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
               </Group>
           </Group>
           <Group type="103" rootIndex="3" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
                   <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
-                  <Component id="Lista_Vendedores" max="32767" attributes="0"/>
+                  <Component id="Lista_Vendedores" pref="701" max="32767" attributes="0"/>
                   <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
               </Group>
           </Group>
@@ -70,7 +70,7 @@
           <Group type="103" rootIndex="6" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
                   <EmptySpace min="0" pref="83" max="32767" attributes="0"/>
-                  <Component id="Listado_Contactos" pref="532" max="32767" attributes="0"/>
+                  <Component id="Listado_Contactos" pref="533" max="32767" attributes="0"/>
                   <EmptySpace min="0" pref="85" max="32767" attributes="0"/>
               </Group>
           </Group>
@@ -84,70 +84,70 @@
           <Group type="103" rootIndex="8" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
                   <EmptySpace min="0" pref="83" max="32767" attributes="0"/>
-                  <Component id="Vendedores" pref="532" max="32767" attributes="0"/>
+                  <Component id="Vendedores" pref="533" max="32767" attributes="0"/>
                   <EmptySpace min="0" pref="85" max="32767" attributes="0"/>
               </Group>
           </Group>
           <Group type="103" rootIndex="9" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
                   <EmptySpace min="0" pref="50" max="32767" attributes="0"/>
-                  <Component id="NuevoVendedor" pref="600" max="32767" attributes="0"/>
+                  <Component id="NuevoVendedor" pref="601" max="32767" attributes="0"/>
                   <EmptySpace min="0" pref="50" max="32767" attributes="0"/>
               </Group>
           </Group>
           <Group type="103" rootIndex="10" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
                   <EmptySpace min="0" pref="50" max="32767" attributes="0"/>
-                  <Component id="nuevocon" pref="600" max="32767" attributes="0"/>
+                  <Component id="nuevocon" pref="601" max="32767" attributes="0"/>
                   <EmptySpace min="0" pref="50" max="32767" attributes="0"/>
               </Group>
           </Group>
           <Group type="103" rootIndex="11" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
                   <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
-                  <Component id="artven" max="32767" attributes="0"/>
+                  <Component id="artven" pref="701" max="32767" attributes="0"/>
                   <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
               </Group>
           </Group>
           <Group type="103" rootIndex="12" groupAlignment="0" attributes="0">
               <Group type="102" alignment="0" attributes="0">
                   <EmptySpace min="-2" pref="88" max="-2" attributes="0"/>
-                  <Component id="NuvoArticulo" pref="476" max="32767" attributes="0"/>
+                  <Component id="NuvoArticulo" pref="478" max="32767" attributes="0"/>
                   <EmptySpace pref="136" max="32767" attributes="0"/>
               </Group>
           </Group>
           <Group type="103" rootIndex="13" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
                   <EmptySpace min="0" pref="50" max="32767" attributes="0"/>
-                  <Component id="nueven" pref="600" max="32767" attributes="0"/>
+                  <Component id="nueven" pref="601" max="32767" attributes="0"/>
                   <EmptySpace min="0" pref="50" max="32767" attributes="0"/>
               </Group>
           </Group>
           <Group type="103" rootIndex="14" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
                   <EmptySpace min="0" pref="50" max="32767" attributes="0"/>
-                  <Component id="Nuevo_contacto" pref="600" max="32767" attributes="0"/>
+                  <Component id="Nuevo_contacto" pref="601" max="32767" attributes="0"/>
                   <EmptySpace min="0" pref="50" max="32767" attributes="0"/>
               </Group>
           </Group>
           <Group type="103" rootIndex="15" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
                   <EmptySpace min="-2" pref="48" max="-2" attributes="0"/>
-                  <Component id="Inventario" pref="603" max="32767" attributes="0"/>
+                  <Component id="Inventario" pref="607" max="32767" attributes="0"/>
                   <EmptySpace min="-2" pref="49" max="-2" attributes="0"/>
               </Group>
           </Group>
           <Group type="103" rootIndex="16" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
                   <EmptySpace min="0" pref="144" max="32767" attributes="0"/>
-                  <Component id="Login" pref="411" max="32767" attributes="0"/>
+                  <Component id="Login" pref="412" max="32767" attributes="0"/>
                   <EmptySpace min="0" pref="145" max="32767" attributes="0"/>
               </Group>
           </Group>
           <Group type="103" rootIndex="17" groupAlignment="0" attributes="0">
               <Group type="102" alignment="0" attributes="0">
                   <EmptySpace min="-2" pref="150" max="-2" attributes="0"/>
-                  <Component id="Secretaria" pref="540" max="32767" attributes="0"/>
+                  <Component id="Secretaria" pref="541" max="32767" attributes="0"/>
                   <EmptySpace max="32767" attributes="0"/>
               </Group>
           </Group>
@@ -236,7 +236,7 @@
           <Group type="103" rootIndex="12" groupAlignment="0" attributes="0">
               <Group type="102" alignment="0" attributes="0">
                   <EmptySpace min="-2" pref="178" max="-2" attributes="0"/>
-                  <Component id="NuvoArticulo" pref="210" max="32767" attributes="0"/>
+                  <Component id="NuvoArticulo" pref="211" max="32767" attributes="0"/>
                   <EmptySpace max="32767" attributes="0"/>
               </Group>
           </Group>
@@ -257,7 +257,7 @@
           <Group type="103" rootIndex="15" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
                   <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
-                  <Component id="Inventario" pref="326" max="32767" attributes="0"/>
+                  <Component id="Inventario" pref="328" max="32767" attributes="0"/>
                   <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
               </Group>
           </Group>
@@ -1190,7 +1190,7 @@
                           <Component id="jButton55" min="-2" max="-2" attributes="0"/>
                       </Group>
                   </Group>
-                  <EmptySpace min="0" pref="172" max="32767" attributes="0"/>
+                  <EmptySpace min="0" pref="187" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -1199,7 +1199,7 @@
               <Group type="102" alignment="0" attributes="0">
                   <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
                   <Component id="jLabel10" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace pref="117" max="32767" attributes="0"/>
+                  <EmptySpace pref="82" max="32767" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Group type="102" alignment="0" attributes="0">
                           <Component id="jScrollPane4" min="-2" pref="117" max="-2" attributes="0"/>
@@ -1404,7 +1404,7 @@
               <Group type="102" alignment="0" attributes="0">
                   <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
                   <Component id="jLabel11" min="-2" max="-2" attributes="0"/>
-                  <EmptySpace pref="106" max="32767" attributes="0"/>
+                  <EmptySpace pref="91" max="32767" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Component id="jScrollPane5" min="-2" pref="92" max="-2" attributes="0"/>
                       <Group type="102" attributes="0">

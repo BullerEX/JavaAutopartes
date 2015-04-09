@@ -16,7 +16,9 @@ import java.util.*;
  * @author Felipe Cardona
  * @author Alexander Orlas
  * @author Angelo Rodrioguez
+ * Hola, esto es un comentario hecho por Alexander
  */
+
 public class Login extends javax.swing.JFrame {
     Conxiondb sqlite;
     Connection cn;
