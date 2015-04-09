@@ -39,6 +39,10 @@ public class Conxiondb {
  /**
   * @param user bla bla bla bla
   */
+    
+    public void mostrar(){
+        System.out.println("#");
+    }
   
 }
 
