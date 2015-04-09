@@ -1,0 +1,270 @@
+
+
+"Accion: Se logeo como Administrador"
+"Accion: Se logeo como Administrador"
+Accion:  AdminEntra a el invenatrio Fecha: 31/3/2015Hora: 5:51:12
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 31/3/2015Hora: 10:31:33
+Accion:  AdminEntra a la lista de Vendedores Fecha: 31/3/2015Hora: 10:31:36
+Accion:  AdminMuestra la lista de Vendedores Fecha: 31/3/2015Hora: 10:31:39
+Accion:  AdminRegreso a su perfil Fecha: 31/3/2015Hora: 10:31:40
+Accion:  AdminEntra a la lista de Ventas Fecha: 31/3/2015Hora: 10:31:42
+Accion:  AdminMostro la lista de ventas Fecha: 31/3/2015Hora: 10:31:43
+Accion:  AdminRetrocede al formulario de AdminFecha: 31/3/2015Hora: 10:31:44
+Accion:  AdminEntra a el invenatrio Fecha: 31/3/2015Hora: 10:31:45
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 31/3/2015Hora: 10:31:46
+Accion:  AdminEntra a la ventana de crear un nuevo Articulo Fecha: 31/3/2015Hora: 10:31:47
+Accion:  AdminMuestra el inventario Fecha: 31/3/2015Hora: 10:31:48
+Accion:  AdminMuestra ek perfil de Administrador Fecha: 31/3/2015Hora: 10:31:49
+Accion: Se logeo como Vendedor Fecha: 31/3/2015Hora: 10:32:14
+Accion:  VendedoresMuestra los clientes Fecha: 31/3/2015Hora: 10:32:18
+Accion:  VendedoresMostro la lista de clientes Fecha: 31/3/2015Hora: 10:32:19
+Accion:  VendedoresMuestra el formulario para ingresar un cliente Fecha: 31/3/2015Hora: 10:32:21
+Accion:  VendedoresIngresa un nuevo cliente Fecha: 31/3/2015Hora: 10:32:26
+Accion:  VendedoresMostro la lista de clientes Fecha: 31/3/2015Hora: 10:32:32
+Accion:  VendedoresRegresa al formulario de vendedores Fecha: 31/3/2015Hora: 10:32:33
+Accion:  VendedoresMuestra los articulos vendidos Fecha: 31/3/2015Hora: 10:32:34
+Accion:  VendedoresMuestra la lista de articulos Fecha: 31/3/2015Hora: 10:32:36
+Accion:  VendedoresMuestra el contenido en la tabla Articulos Fecha: 31/3/2015Hora: 10:32:38
+Accion:  VendedoresEntra a la ventana de crear un nuevo Articulo Fecha: 31/3/2015Hora: 10:32:39
+Accion:  VendedoresGuarda los datos ingresados Fecha: 31/3/2015Hora: 10:32:44
+Accion:  VendedoresMuestra ek perfil de Administrador Fecha: 31/3/2015Hora: 10:32:48
+Accion:  VendedoresEntra a la lista de Vendedores Fecha: 31/3/2015Hora: 10:32:54
+Accion: Se logeo como Vendedor Fecha: 31/3/2015Hora: 22:6:14
+Accion:  VendedoresMuestra los articulos vendidos Fecha: 31/3/2015Hora: 22:6:16
+Accion:  VendedoresRegresa a vendedores Fecha: 31/3/2015Hora: 22:6:18
+Accion:  VendedoresMuestra los clientes Fecha: 31/3/2015Hora: 22:6:20
+Accion:  VendedoresRegresa al formulario de vendedores Fecha: 31/3/2015Hora: 22:6:22
+Accion:  VendedoresMuestra los clientes Fecha: 31/3/2015Hora: 22:6:23
+Accion:  VendedoresMuestra el formulario para ingresar un cliente Fecha: 31/3/2015Hora: 22:6:24
+Accion:  Vendedoresregresa al listado de clientes Fecha: 31/3/2015Hora: 22:6:25
+Accion:  VendedoresMostro la lista de clientes Fecha: 31/3/2015Hora: 22:6:26
+Accion:  VendedoresRegresa al formulario de vendedores Fecha: 31/3/2015Hora: 22:6:27
+Accion:  VendedoresMuestra los articulos vendidos Fecha: 31/3/2015Hora: 22:6:28
+Accion:  VendedoresMuestra la lista de articulos Fecha: 31/3/2015Hora: 22:6:38
+Accion:  VendedoresMuestra ek perfil de Administrador Fecha: 31/3/2015Hora: 22:6:42
+Accion: Se logeo como Vendedor Fecha: 31/3/2015Hora: 22:19:38
+Accion:  VendedoresMuestra los clientes Fecha: 31/3/2015Hora: 22:19:40
+Accion:  VendedoresRegresa al formulario de vendedores Fecha: 31/3/2015Hora: 22:19:42
+Accion:  VendedoresMuestra los articulos vendidos Fecha: 31/3/2015Hora: 22:19:42
+Accion:  VendedoresMuestra la lista de articulos Fecha: 31/3/2015Hora: 22:19:43
+Accion:  VendedoresMuestra ek perfil de Administrador Fecha: 31/3/2015Hora: 22:19:44
+Accion:  VendedoresRegresa a vendedores Fecha: 31/3/2015Hora: 22:19:46
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 31/3/2015Hora: 23:30:23
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 0:4:2
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 0:4:4
+Accion:  AdminEntra a la ventana de crear un nuevo Articulo Fecha: 1/4/2015Hora: 0:4:6
+Accion:  AdminGuarda los datos ingresados Fecha: 1/4/2015Hora: 0:4:18
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 0:4:20
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 0:25:53
+Accion:  AdminEntra a la lista de Vendedores Fecha: 1/4/2015Hora: 0:26:15
+Accion:  AdminIngreso a la lista de Vendedores Fecha: 1/4/2015Hora: 0:26:17
+Accion:  AdminCrea un nuevo vendedor Fecha: 1/4/2015Hora: 0:26:44
+Accion:  AdminMuestra la lista de Vendedores Fecha: 1/4/2015Hora: 0:26:46
+Accion:  AdminMuestra la lista de Vendedores Fecha: 1/4/2015Hora: 0:27:1
+Accion:  AdminIngreso a la lista de Vendedores Fecha: 1/4/2015Hora: 0:27:45
+Accion:  AdminCrea un nuevo vendedor Fecha: 1/4/2015Hora: 0:27:54
+Accion:  AdminRegreso a su perfil Fecha: 1/4/2015Hora: 0:28:33
+Accion: Se logeo como Vendedor Fecha: 1/4/2015Hora: 0:29:48
+Accion:  VendedoresMuestra los articulos vendidos Fecha: 1/4/2015Hora: 0:29:51
+Accion:  VendedoresMuestra la lista de articulos Fecha: 1/4/2015Hora: 0:29:58
+Accion:  VendedoresEntra a la ventana de crear un nuevo Articulo Fecha: 1/4/2015Hora: 0:29:58
+Accion:  VendedoresMuestra el inventario Fecha: 1/4/2015Hora: 0:30:1
+Accion:  VendedoresMostro el Inventario Fecha: 1/4/2015Hora: 0:30:5
+Accion:  VendedoresRegresa a vendedores Fecha: 1/4/2015Hora: 0:30:8
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 0:30:21
+Accion:  AdminEntra a la lista de Vendedores Fecha: 1/4/2015Hora: 0:30:28
+Accion:  AdminIngreso a la lista de Vendedores Fecha: 1/4/2015Hora: 0:30:29
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 0:32:52
+Accion:  AdminEntra a la lista de Vendedores Fecha: 1/4/2015Hora: 0:32:57
+Accion:  AdminIngreso a la lista de Vendedores Fecha: 1/4/2015Hora: 0:32:58
+Accion:  AdminCrea un nuevo vendedor Fecha: 1/4/2015Hora: 0:33:10
+Accion:  AdminMuestra la lista de Vendedores Fecha: 1/4/2015Hora: 0:33:11
+Accion:  AdminIngreso a la lista de Vendedores Fecha: 1/4/2015Hora: 0:33:20
+Accion:  AdminCrea un nuevo vendedor Fecha: 1/4/2015Hora: 0:33:23
+Accion:  AdminMuestra la lista de Vendedores Fecha: 1/4/2015Hora: 0:33:25
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 0:39:1
+Accion:  AdminEntra a la lista de Vendedores Fecha: 1/4/2015Hora: 0:39:4
+Accion:  AdminMuestra la lista de Vendedores Fecha: 1/4/2015Hora: 0:39:6
+Accion:  AdminIngreso a la lista de Vendedores Fecha: 1/4/2015Hora: 0:39:6
+Accion:  AdminCrea un nuevo vendedor Fecha: 1/4/2015Hora: 0:39:15
+Accion:  AdminMuestra la lista de Vendedores Fecha: 1/4/2015Hora: 0:39:16
+Accion:  AdminIngreso a la lista de Vendedores Fecha: 1/4/2015Hora: 0:39:30
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 1:44:10
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 2:3:11
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 2:3:13
+Accion:  AdminEntra a la ventana de crear un nuevo Articulo Fecha: 1/4/2015Hora: 2:3:16
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 2:19:32
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 2:21:4
+Accion:  AdminEntra a la lista de Vendedores Fecha: 1/4/2015Hora: 2:21:25
+Accion:  AdminIngreso a la lista de Vendedores Fecha: 1/4/2015Hora: 2:21:27
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 2:22:20
+Accion:  AdminEntra a la lista de Vendedores Fecha: 1/4/2015Hora: 2:22:23
+Accion:  AdminIngreso a la lista de Vendedores Fecha: 1/4/2015Hora: 2:22:29
+Accion:  AdminRefresa a la lista de Vendedores Fecha: 1/4/2015Hora: 2:22:32
+Accion:  AdminMuestra la lista de Vendedores Fecha: 1/4/2015Hora: 2:22:33
+Accion:  AdminRegreso a su perfil Fecha: 1/4/2015Hora: 2:22:35
+Accion:  AdminEntra a la lista de Ventas Fecha: 1/4/2015Hora: 2:22:36
+Accion:  AdminAgrego una nueva Venta Fecha: 1/4/2015Hora: 2:22:38
+Accion:  AdminRetrocede a la lista de ventas Fecha: 1/4/2015Hora: 2:22:40
+Accion:  AdminRetrocede al formulario de AdminFecha: 1/4/2015Hora: 2:22:41
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 2:22:48
+Accion: Se logeo como Vendedor Fecha: 1/4/2015Hora: 2:30:0
+Accion: Se logeo como Vendedor Fecha: 1/4/2015Hora: 2:33:42
+Accion: Se logeo como Vendedor Fecha: 1/4/2015Hora: 3:5:8
+Accion: Se logeo como Secretaria Fecha: 1/4/2015Hora: 3:5:49
+Accion:  SecretariaRegresa a la lista de consesionarios Fecha: 1/4/2015Hora: 3:5:53
+Accion:  SecretariaMuestra los consecionarios Fecha: 1/4/2015Hora: 3:5:55
+Accion:  SecretariaAgrego un nuevo consecionario Fecha: 1/4/2015Hora: 3:5:56
+Accion:  SecretariaInserta un nuevo consesionario Fecha: 1/4/2015Hora: 3:6:5
+Accion:  SecretariaMuestra los consecionarios Fecha: 1/4/2015Hora: 3:6:11
+Accion: Se logeo como Secretaria Fecha: 1/4/2015Hora: 3:7:14
+Accion:  SecretariaRegresa a la lista de consesionarios Fecha: 1/4/2015Hora: 3:7:19
+Accion:  SecretariaMuestra los consecionarios Fecha: 1/4/2015Hora: 3:7:20
+Accion:  SecretariaMuestra los consecionarios Fecha: 1/4/2015Hora: 3:7:20
+Accion:  SecretariaAgrego un nuevo consecionario Fecha: 1/4/2015Hora: 3:7:21
+Accion:  SecretariaInserta un nuevo consesionario Fecha: 1/4/2015Hora: 3:7:29
+Accion:  SecretariaAgrego un nuevo consecionario Fecha: 1/4/2015Hora: 3:7:36
+Accion:  SecretariaInserta un nuevo consesionario Fecha: 1/4/2015Hora: 3:7:50
+Accion:  SecretariaMuestra los consecionarios Fecha: 1/4/2015Hora: 3:7:51
+Accion:  SecretariaMuestra los consecionarios Fecha: 1/4/2015Hora: 3:8:1
+Accion:  SecretariaMuestra los consecionarios Fecha: 1/4/2015Hora: 3:8:1
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 4:13:33
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 4:13:34
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 4:13:36
+Accion:  AdminMuestra el perfil de Administrador Fecha: 1/4/2015Hora: 4:13:45
+Accion:  AdminEntra a la lista de Vendedores Fecha: 1/4/2015Hora: 4:13:52
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 4:55:2
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 4:55:5
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 4:55:8
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 4:55:15
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 5:12:59
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 5:13:7
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 5:13:12
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 5:15:55
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 5:15:56
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 5:15:57
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 5:30:44
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 5:30:47
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 5:30:48
+Accion:  AdminMuestra el inventario Fecha: 1/4/2015Hora: 5:30:52
+Accion:  AdminMuestra el inventario Fecha: 1/4/2015Hora: 5:31:13
+Accion:  AdminMuestra el inventario Fecha: 1/4/2015Hora: 5:31:15
+Accion:  AdminMuestra el inventario Fecha: 1/4/2015Hora: 5:31:20
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 5:37:23
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 5:37:24
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 5:37:28
+Accion:  AdminEntra a la ventana de crear un nuevo Articulo Fecha: 1/4/2015Hora: 5:37:31
+Accion:  AdminGuarda los datos ingresados Fecha: 1/4/2015Hora: 5:37:39
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 5:37:41
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 5:39:2
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 5:39:3
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 5:39:5
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 5:39:5
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 5:40:25
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 5:40:27
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 5:40:28
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 5:40:28
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 5:44:4
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 5:44:41
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 5:44:43
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 6:1:36
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 6:1:41
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 6:1:43
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 6:6:16
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 6:6:18
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 6:6:21
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 6:6:47
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 6:41:25
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 6:41:26
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 6:41:27
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 6:42:52
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 6:43:18
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 6:43:26
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 6:43:48
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 6:43:49
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 6:53:15
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 6:53:17
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 6:53:20
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 6:58:44
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 6:58:46
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 6:58:48
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 6:59:12
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 7:8:11
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 7:8:11
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 7:8:13
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 7:48:10
+Accion: Se logeo como Secretaria Fecha: 1/4/2015Hora: 7:48:27
+Accion:  SecretariaRegresa a la lista de consesionarios Fecha: 1/4/2015Hora: 7:48:29
+Accion:  SecretariaMuestra los consecionarios Fecha: 1/4/2015Hora: 7:48:32
+Accion:  SecretariaAgrego un nuevo consecionario Fecha: 1/4/2015Hora: 7:48:33
+Accion:  SecretariaInserta un nuevo consesionario Fecha: 1/4/2015Hora: 7:48:41
+Accion:  SecretariaMuestra los consecionarios Fecha: 1/4/2015Hora: 7:48:42
+Accion: Se logeo como Secretaria Fecha: 1/4/2015Hora: 7:50:35
+Accion:  SecretariaRegresa a la lista de consesionarios Fecha: 1/4/2015Hora: 7:50:37
+Accion:  SecretariaMuestra los consecionarios Fecha: 1/4/2015Hora: 7:50:41
+Accion: Se logeo como Secretaria Fecha: 1/4/2015Hora: 7:51:19
+Accion:  SecretariaRegresa a la lista de consesionarios Fecha: 1/4/2015Hora: 7:51:22
+Accion: Se logeo como Secretaria Fecha: 1/4/2015Hora: 7:57:6
+Accion:  SecretariaRegresa a la lista de consesionarios Fecha: 1/4/2015Hora: 7:57:8
+Accion:  SecretariaMuestra los consecionarios Fecha: 1/4/2015Hora: 7:57:11
+Accion: Se logeo como Secretaria Fecha: 1/4/2015Hora: 8:2:23
+Accion:  SecretariaRegresa a la lista de consesionarios Fecha: 1/4/2015Hora: 8:2:25
+Accion:  SecretariaMuestra los consecionarios Fecha: 1/4/2015Hora: 8:2:27
+Accion: Se logeo como Secretaria Fecha: 1/4/2015Hora: 8:3:0
+Accion:  SecretariaRegresa a la lista de consesionarios Fecha: 1/4/2015Hora: 8:3:3
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 8:7:48
+Accion:  AdminEntra a el invenatrio Fecha: 1/4/2015Hora: 8:7:50
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 8:7:51
+Accion:  AdminMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 8:8:1
+Accion: Se logeo como Secretaria Fecha: 1/4/2015Hora: 8:9:50
+Accion:  SecretariaRegresa a la lista de consesionarios Fecha: 1/4/2015Hora: 8:9:52
+Accion:  SecretariaMuestra los consecionarios Fecha: 1/4/2015Hora: 8:9:55
+Accion: Se logeo como Secretaria Fecha: 1/4/2015Hora: 8:11:9
+Accion:  SecretariaRegresa a la lista de consesionarios Fecha: 1/4/2015Hora: 8:11:11
+Accion:  SecretariaMuestra los consecionarios Fecha: 1/4/2015Hora: 8:11:12
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 8:22:30
+Accion:  AdminEntra a la lista de Vendedores Fecha: 1/4/2015Hora: 8:22:31
+Accion:  AdminMuestra la lista de Vendedores Fecha: 1/4/2015Hora: 8:22:34
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 8:23:42
+Accion:  AdminEntra a la lista de Vendedores Fecha: 1/4/2015Hora: 8:23:44
+Accion:  AdminMuestra la lista de Vendedores Fecha: 1/4/2015Hora: 8:23:45
+Accion:  AdminMuestra la lista de Vendedores Fecha: 1/4/2015Hora: 8:24:3
+Accion: Se logeo como Vendedor Fecha: 1/4/2015Hora: 8:31:59
+Accion:  VendedoresMuestra los articulos vendidos Fecha: 1/4/2015Hora: 8:32:2
+Accion:  VendedoresMuestra la lista de articulos Fecha: 1/4/2015Hora: 8:32:7
+Accion:  VendedoresMuestra el contenido en la tabla Articulos Fecha: 1/4/2015Hora: 8:32:12
+Accion:  VendedoresMostro el Inventario Fecha: 1/4/2015Hora: 8:32:22
+Accion:  VendedoresRegresa a vendedores Fecha: 1/4/2015Hora: 8:32:24
+Accion:  VendedoresMuestra los clientes Fecha: 1/4/2015Hora: 8:32:28
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 8:33:42
+Accion:  AdminEntra a la lista de Ventas Fecha: 1/4/2015Hora: 8:33:44
+Accion:  AdminMostro la lista de ventas Fecha: 1/4/2015Hora: 8:33:51
+Accion: Se logeo como Administrador Entra a el invenatrio Fecha: 1/4/2015Hora: 8:35:52
+Accion:  AdminEntra a la lista de Ventas Fecha: 1/4/2015Hora: 8:36:23
+Accion:  AdminMostro la lista de ventas Fecha: 1/4/2015Hora: 8:36:24
+Accion:  AdminMostro la lista de ventas Fecha: 1/4/2015Hora: 8:36:38
+Accion:  AdminMostro la lista de ventas Fecha: 1/4/2015Hora: 8:36:46
+Accion:  AdminMostro la lista de ventas Fecha: 1/4/2015Hora: 8:36:50
+Accion:  AdminMostro la lista de ventas Fecha: 1/4/2015Hora: 8:36:51
+Accion:  AdminMostro la lista de ventas Fecha: 1/4/2015Hora: 8:36:52
+Accion: Se logeo como Secretaria Fecha: 1/4/2015Hora: 8:42:44
+Accion:  SecretariaMostro la lista de contactos Fecha: 1/4/2015Hora: 8:42:49
+Accion: Se logeo como Vendedor Fecha: 1/4/2015Hora: 8:43:28
+Accion:  VendedoresMuestra los clientes Fecha: 1/4/2015Hora: 8:43:31
+Accion:  VendedoresMostro la lista de clientes Fecha: 1/4/2015Hora: 8:43:34
+Accion:  VendedoresMuestra el formulario para ingresar un cliente Fecha: 1/4/2015Hora: 8:43:36
+Accion:  Vendedoresregresa al listado de clientes Fecha: 1/4/2015Hora: 8:45:10
+Accion:  VendedoresMuestra el formulario para ingresar un cliente Fecha: 1/4/2015Hora: 8:45:15
+Accion:  VendedoresIngresa un nuevo cliente Fecha: 1/4/2015Hora: 8:45:19
+Accion:  VendedoresMostro la lista de clientes Fecha: 1/4/2015Hora: 8:45:21
+Accion:  VendedoresMostro la lista de clientes Fecha: 1/4/2015Hora: 8:45:34
+Accion: Se logeo como Secretaria Fecha: 1/4/2015Hora: 8:50:13
+Accion:  SecretariaMostro la lista de contactos Fecha: 1/4/2015Hora: 8:50:17
+Accion:  SecretariaMostro la lista de contactos Fecha: 1/4/2015Hora: 8:50:19
+Accion:  SecretariaVa al formulario de agregar un contacto Fecha: 1/4/2015Hora: 8:50:20
+Accion:  SecretariaAgrego un nuevo contacto Fecha: 1/4/2015Hora: 8:50:29
+Accion:  SecretariaMostro la lista de contactos Fecha: 1/4/2015Hora: 8:50:31
+Accion:  SecretariaMostro la lista de contactos Fecha: 1/4/2015Hora: 8:50:42
+Accion:  SecretariaRegreso al formulario de secretaria Fecha: 1/4/2015Hora: 8:50:45
+Accion:  SecretariaRegresa a la lista de consesionarios Fecha: 1/4/2015Hora: 8:50:46
+Accion:  SecretariaMuestra los consecionarios Fecha: 1/4/2015Hora: 8:50:48
